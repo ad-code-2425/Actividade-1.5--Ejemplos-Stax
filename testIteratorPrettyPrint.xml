@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <!--This is staff 1001-->
+    <staff id="1001">
+        <name>mkyong</name>
+        <salary currency="USD">5000</salary>
+        <bio><![CDATA[HTML tag <code>testing</code>]]></bio>
+    </staff>
+</company>
